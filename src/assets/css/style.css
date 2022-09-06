@@ -1,0 +1,32 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-color: #F4F5FA
+}
+.sidebar{
+    background-color: rgb(255, 255, 255);
+    height: 100vh;
+    border-radius: 5px;
+}
+.logo{
+   margin-left: 5px;
+}
+.link{
+    color:#DDE0E0 !important;
+    text-decoration: none;
+   
+}
+.link-text{
+    margin-left: 40px;
+}
+.link:hover{
+    color:#000000 !important;
+    text-decoration: none;
+    transition: 0.2s;
+}
+.icon{
+    font-size: 18px;
+    margin-left: 10px;
+}
